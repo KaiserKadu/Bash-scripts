@@ -1,3 +1,3 @@
 #!/bin/bash
 sleep 13
-gnome-terminal --full-screen  -- bash  /home/krishnak/Documents/Bash-scripts/Startup.sh
+gnome-terminal --full-screen  -- bash  $(pwd)/Startup.sh
